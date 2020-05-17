@@ -46,7 +46,32 @@ The full list of options is:
       --start-value, -S
         specifying the start value for the PageRank computation
         Default: 0.1
-  
+ 
+ ## Citation
+ If you find this work useful, please provide the following reference:
+ 
+ ```
+     @InProceedings{diefenbach_thalhammer,
+            author="Diefenbach, Dennis
+            and Thalhammer, Andreas",
+            editor="Gangemi, Aldo
+            and Navigli, Roberto
+            and Vidal, Maria-Esther
+            and Hitzler, Pascal
+            and Troncy, Rapha{\"e}l
+            and Hollink, Laura
+            and Tordai, Anna
+            and Alam, Mehwish",
+            title="PageRank and Generic Entity Summarization for RDF Knowledge Bases",
+            booktitle="The Semantic Web",
+            year="2018",
+            publisher="Springer International Publishing",
+            address="Cham",
+            pages="145--160",
+            isbn="978-3-319-93417-4"
+    }
+ ```
+ 
  ## Already computed datasets
  
  The PageRank scores of some popular RDF datasets can be found [HERE](https://figshare.com/projects/PageRank_scores_of_some_RDF_graphs/28119)
