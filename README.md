@@ -52,22 +52,14 @@ The full list of options is:
  
  ```
      @InProceedings{diefenbach_thalhammer,
-            author="Diefenbach, Dennis
-            and Thalhammer, Andreas",
-            editor="Gangemi, Aldo
-            and Navigli, Roberto
-            and Vidal, Maria-Esther
-            and Hitzler, Pascal
-            and Troncy, Rapha{\"e}l
-            and Hollink, Laura
-            and Tordai, Anna
-            and Alam, Mehwish",
-            title="PageRank and Generic Entity Summarization for RDF Knowledge Bases",
+            author="Diefenbach, Dennis and Thalhammer, Andreas",
+            title={{PageRank and Generic Entity Summarization for RDF Knowledge Bases}},
             booktitle="The Semantic Web",
             year="2018",
             publisher="Springer International Publishing",
             address="Cham",
             pages="145--160",
+            doi={10.1007/978-3-319-93417-4_10},
             isbn="978-3-319-93417-4"
     }
  ```
