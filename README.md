@@ -50,3 +50,6 @@ The full list of options is:
  ## Already computed datasets
  
  The PageRank scores of some popular RDF datasets can be found [HERE](https://figshare.com/projects/PageRank_scores_of_some_RDF_graphs/28119)
+
+##Acknloweldgements
+We would like to thank @cbobed for his contributions!
